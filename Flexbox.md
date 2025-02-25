@@ -146,5 +146,5 @@ When items wrap into multiple lines, you can use `align-content` to control thei
 - `stretch`: Lines stretch to fill the container.
 
 For more information on Flexbox, check out the [MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox).
-```
+
 
