@@ -1,5 +1,6 @@
 # Writing a Function in JavaScript
-[beach] (https://images.unsplash.com/photo-1723444059774-743b0e6d19e9?q=80&w=3135&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![beach](https://images.unsplash.com/photo-1723444059774-743b0e6d19e9?q=80&w=3135&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
 
 ## 1. Basic syntax
